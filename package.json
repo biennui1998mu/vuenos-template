@@ -10,6 +10,12 @@
     "linkedin": "https://www.linkedin.com/in/sonnguyendinhhai/"
   },
   "repository": "https://github.com/biennui1998mu/{repository-name}",
+  
+  "keywords": [
+    "vue",
+    "vue3",
+    "project-name"
+  ],
 
   "main": "dist/package-name.ssr.js",
   "browser": "dist/package-name.esm.js",
