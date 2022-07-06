@@ -40,6 +40,8 @@
   },
 
   "dependencies": {
+    "sass": "1.32.1",
+    "sass-loader": "8.0.2"
   },
 
   "devDependencies": {
